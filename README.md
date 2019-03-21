@@ -7,4 +7,4 @@ User can create a .txt wiki file  by navigating to localhost:8080/view/*.txt fil
 
 If no file exits then the app creates one else if it exists we have option view and edit the file.
 
-User can view his created files by navigating to loaclhost:8080/view/*Created .txt file name
+User can view his created files by navigating to localhost:8080/view/*Created .txt file name
