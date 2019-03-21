@@ -1,0 +1,2 @@
+Hii ... This is a sample wiki page content
+You can view or edit this by building this code then navigating to localhost:8080/view/Sample_wiki
